@@ -20,12 +20,13 @@ An iOS6 iPad game created to help elementary school students practice ratio reas
 With pure word problems, students are inclined to look only for the numbers and then plug them into known equations without much thought. Often, they lack intuition about how these problems relate to the real world; our game provides that missing link by visually representing ratio-based problems. Gameplay encourages students to better connect the requirements of a word problem that they may see in
 school with real-life situations and vice versa. Our aim is to foster long-term mathematical literacy and academic confidence by strengthening students' problem-solving and ratio reasoning skills in a fun, engaging, and challenging way. 
 
-###Details
-Coded in Objective-C using the Cocos2D framework and open-source libraries. You can find out more about our development process <a href="http://splorinstudios.tumblr.com/">here</a>.
-
 ###User Testing
 In December 2013, we tested our beta with our target group: approximately thirty grade six students at a local Pomona middle school. Our game was well-recieved on every front and students' suggestions aligned (strangely) perfectly with all previously-considered improvements to the game. We received excellent feedback about user interface changes, details that needed tweaking, and the direction in which we should continue. 
 
 ###About Our Team
 This game was developed by a team of four junior-year computer science majors at Harvey Mudd College in Claremont, CA over the the course of roughly a semester and a half. The game started as the final project for CS121 (Large Software Development) and then as the subject of an Advanced Problems in Computer Science course with our professor and former CS department chair Mike Erlinger. 
 
+###Details
+Coded in Objective-C using the Cocos2D framework and open-source libraries, including <a href="https://github.com/lomanf/PaperStack">PaperStack</a>. You can find out more about our development process on our <a href="http://splorinstudios.tumblr.com/">blog</a>. This repository is private, but in total, there were 333 commits over a span of seven months (October 2013 to May 2014). Some information pertaining to activity is shown below, but note the first image excludes merge commits and data for two members who used now-deleted course or personal accounts.<br>
+<img src="https://dl.dropboxusercontent.com/u/69377275/mw_commits.png" alt="Commit Stats" style="width:1998px;height:420px;"><br>
+<img src="https://dl.dropboxusercontent.com/u/69377275/mw_punch.png" alt="Punchcard" style="width:2052px;height:1034px"><br>
